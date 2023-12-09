@@ -1,0 +1,13 @@
+{
+    "name": "kerianmm/fizz-buzz",
+    "autoload": {
+        "psr-4": {
+            "Kerianmm\\FizzBuzz\\": "src/",
+            "Kerianmm\\FizzBuzz\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": "^8.3",
+        "phpunit/phpunit": "^10"
+    }
+}
